@@ -12,5 +12,5 @@ Design 7:
 
 Design 5:
 
-<img width="362" alt="image" src="https://github.com/thisisrohitkumar/the_creative_minions_CSSBATTLES2023/assets/43836363/862a0a79-0980-419e-bac8-9c900d6caca3">
+<img width="362" alt="image" src="https://github.com/thisisrohitkumar/the_creative_minions_CSSBATTLES2023/blob/main/BATTLE%201/Design%205/screenshotv2.png">
 
