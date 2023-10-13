@@ -189,9 +189,17 @@ svg {
 
 .flags {
     position: absolute;
-    bottom: 28%;
+    bottom: 20%;
     left: 50%;
     transform: translateX(-50%);
+}
+
+.flags img {
+    margin-left: 20px;
+}
+
+.flags img:first-of-type {
+    margin-left: 0px;
 }
 
 @keyframes glow {
